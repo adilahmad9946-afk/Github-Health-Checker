@@ -27,7 +27,7 @@ def repo_health(owner: str, repo: str):
 
     analysis = analyze_repo(repo_data)
 
-    summary = generate_ai_summary(repo_data)
+    summary = "Repository analysis completed successfully"
 
     return {
     "repository": repo,
