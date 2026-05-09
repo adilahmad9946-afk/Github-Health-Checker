@@ -22,3 +22,7 @@ A FastAPI-based GitHub repository health checker with NVIDIA LLM integration.
 
 ```bash ```
 uvicorn main:app --reload 
+
+
+## Demo Video
+https://drive.google.com/file/d/18DAs0oNDbeS3_goe5wMlkfgI83BmHbV3/view?usp=drivesdk
