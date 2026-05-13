@@ -38,7 +38,7 @@ venv\Scripts\activate
 ```
 ## 4 Install Required Packages
 ```bash
-pip install fastapi uvicorn requests openai
+pip install fastapi uvicorn requests openai python-dotenv
 ```
 ## 5.Add API Key
 Create a .env file in the root folder.
